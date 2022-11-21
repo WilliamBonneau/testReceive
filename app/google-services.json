@@ -1,0 +1,158 @@
+{
+  "project_info": {
+    "project_number": "200101524017",
+    "project_id": "myapp1-27302",
+    "storage_bucket": "myapp1-27302.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200101524017:android:52d89662f262557534db10",
+        "android_client_info": {
+          "package_name": "angers.bonneau.myapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200101524017-huehsjsvckf0aklas282np120vitt5da.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "angers.bonneau.myapp1",
+            "certificate_hash": "cb20fe6df7cf142cb2d773db10893bd4055c7974"
+          }
+        },
+        {
+          "client_id": "200101524017-1m0v8e88iq6dtsdqr76g4i1og8l57dm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6TFmFu-_qEvWNz-OMGQhbXMn_tGMueEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200101524017-1m0v8e88iq6dtsdqr76g4i1og8l57dm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200101524017:android:628c60cf4d58161b34db10",
+        "android_client_info": {
+          "package_name": "angers.bonneau.myappauthgoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200101524017-s48dteg1itefi3c0s7nbu14ing177m5a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "angers.bonneau.myappauthgoogle",
+            "certificate_hash": "cb20fe6df7cf142cb2d773db10893bd4055c7974"
+          }
+        },
+        {
+          "client_id": "200101524017-sp987kiau7am98e6m4olc6t684m3sta1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "angers.bonneau.myappauthgoogle",
+            "certificate_hash": "8e6a5b3576f2cb2b8313fc39e565a1cbc6b3938f"
+          }
+        },
+        {
+          "client_id": "200101524017-1m0v8e88iq6dtsdqr76g4i1og8l57dm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6TFmFu-_qEvWNz-OMGQhbXMn_tGMueEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200101524017-1m0v8e88iq6dtsdqr76g4i1og8l57dm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200101524017:android:86dd92123ca1545d34db10",
+        "android_client_info": {
+          "package_name": "angers.bonneau.myappfbauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200101524017-5bl6ufs4pnhq9egahciv0v8drrlljvi5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "angers.bonneau.myappfbauth",
+            "certificate_hash": "cb20fe6df7cf142cb2d773db10893bd4055c7974"
+          }
+        },
+        {
+          "client_id": "200101524017-1m0v8e88iq6dtsdqr76g4i1og8l57dm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6TFmFu-_qEvWNz-OMGQhbXMn_tGMueEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200101524017-1m0v8e88iq6dtsdqr76g4i1og8l57dm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200101524017:android:ed89fba17aa3e1bf34db10",
+        "android_client_info": {
+          "package_name": "angers.bonneau.testreceive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200101524017-1m0v8e88iq6dtsdqr76g4i1og8l57dm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6TFmFu-_qEvWNz-OMGQhbXMn_tGMueEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200101524017-1m0v8e88iq6dtsdqr76g4i1og8l57dm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
